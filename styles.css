@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  background: #0e0e0e;
+  color: #f2f2f2;
+  font-family: Arial, sans-serif;
+}
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.cta {
+  border: 1px solid #fff;
+  padding: 12px 24px;
+  color: white;
+  text-decoration: none;
+}
